@@ -1,0 +1,60 @@
+#+TITLE: Rails 2
+#+AUTHOR: Albert Castellano
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:comment d:(not "LOGBOOK") date:t
+#+OPTIONS: e:t email:nil f:t inline:t num:nil p:nil pri:nil stat:t
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:nil todo:t |:t
+#+FAVICON: images/maker.jpg
+#+ICON: images/maker.jpg
+#+COMPANY: Maker Lab
+
+** Creando primer controlador y action
+#+BEGIN_SRC cmd
+bin/rails generate controller welcome index
+#+END_SRC 
+#+BEGIN_SRC cmd
+bin/rails generate controller welcome index
+#+END_SRC 
+#+BEGIN_SRC cmd
+bin/rails generate controller welcome index
+#+END_SRC 
+#+BEGIN_SRC cmd
+bin/rails generate controller welcome index
+#+END_SRC 
+#+BEGIN_SRC cmd
+bin/rails generate controller welcome index
+#+END_SRC 
+#+BEGIN_SRC cmd
+bin/rails generate controller welcome index
+#+END_SRC 
+#+BEGIN_SRC cmd
+bin/rails generate controller welcome index
+#+END_SRC 
+#+BEGIN_SRC cmd
+bin/rails generate controller welcome index
+#+END_SRC 
+#+BEGIN_SRC cmd
+bin/rails generate controller welcome index
+#+END_SRC 
+#+BEGIN_SRC cmd
+bin/rails generate controller welcome index
+#+END_SRC 
+#+BEGIN_SRC cmd
+bin/rails generate controller welcome index
+#+END_SRC 
+#+BEGIN_SRC cmd
+bin/rails generate controller welcome index
+#+END_SRC 
+#+BEGIN_SRC cmd
+bin/rails generate controller welcome index
+#+END_SRC 
+
+** Akasds
+Hola amiguitos xD
+#+BEGIN_SRC clojure
+(when (not nil) 
+  "nil is false")
+;; => "nil is false"
+#+END_SRC 
+
+cdsadsa
